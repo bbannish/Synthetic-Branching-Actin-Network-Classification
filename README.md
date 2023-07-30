@@ -1,4 +1,4 @@
-# actin
+# Growth of 2D synthetic actin network
 
 Summary
 
